@@ -1,0 +1,6 @@
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\bin\Debug\Ejercicio6.exe
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\bin\Debug\Ejercicio6.pdb
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\obj\Debug\Ejercicio6.exe
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\obj\Debug\Ejercicio6.pdb
+C:\Users\GGIZI\Desktop\SharpDevelop Projects\Taller\Ejercicio6\obj\Debug\Ejercicio6.csprojResolveAssemblyReference.cache
